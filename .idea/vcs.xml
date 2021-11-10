@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/pyslam" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pyslam/pangolin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pyslam/thirdparty/SOSNet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pyslam/thirdparty/d2net" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pyslam/thirdparty/disk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pyslam/thirdparty/disk/submodules/torch-dimcheck" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pyslam/thirdparty/disk/submodules/torch-localize" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pyslam/thirdparty/disk/submodules/unets" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pyslam/thirdparty/hardnet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pyslam/thirdparty/keynet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pyslam/thirdparty/lfnet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pyslam/thirdparty/logpolar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pyslam/thirdparty/r2d2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pyslam/thirdparty/superpoint" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pyslam/thirdparty/tensorflow_models" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pyslam/thirdparty/tfeat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yolov5" vcs="Git" />
+  </component>
+</project>
